@@ -6,6 +6,12 @@ Manually sorting, documents, and media files is time-consuming. I created this s
 ### 🛠️ What it Does
 This Python script uses the `os` and `shutil` libraries to scan a specific folder and instantly move files into categorized sub-folders based on their file extensions.
 
+### 📸 Proof of Concept
+
+| Before (Messy Folder) | After (Organized Folder) |
+| :---: | :---: |
+| ![Before](before.png) | ![After](after.png) |
+
 ### 🚀 Key Features
 *   **Multi-Format Support**: Automatically detects and sorts:
     *   **Images**: .jpg, .png, .jpeg
