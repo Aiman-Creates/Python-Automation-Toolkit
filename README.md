@@ -10,7 +10,7 @@ This Python script uses the `os` and `shutil` libraries to scan a specific folde
 
 | Before (Messy Folder) | After (Organized Folder) |
 | :---: | :---: |
-| ![Before](before.png) | ![After](after.png) |
+| ![Before](Before.png) | ![After](After.png) |
 
 ### 🚀 Key Features
 *   **Multi-Format Support**: Automatically detects and sorts:
