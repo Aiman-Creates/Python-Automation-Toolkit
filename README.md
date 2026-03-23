@@ -3,46 +3,56 @@ A collection of high-utility scripts designed to automate repetitive tasks and e
 
 
 **📂 Included Projects**
+
 **1. 🔐 AI Face Unlock**
 **Location:** /AI-Face-Unlock
 A security script that uses your webcam to recognize your face in real-time.
+
 **Tech:** OpenCV, LBPH Face Recognition, NumPy.
+
 **How it works:** It trains on a folder of your photos and detects your face live. If it recognizes you with high confidence, it displays "ACCESS GRANTED."
+
 **2. 📂 Smart File Organizer**
 **Location:** /File-Organizer
 A script that automatically monitors and sorts cluttered folders (like your Desktop) based on file extensions.
+
 **Tech:** Python os and shutil libraries.
+
 **How it works:** It moves Images, Documents, Videos, and more into neatly categorized folders automatically.
-**🚀 Quick Setup (Get it running!)**
-**Clone the repository:**
-**bash**
+
+### 🚀 Quick Setup (Get it running!)
+
+**1. Clone the repository:**
+```bash
+
 git clone [https://github.com](https://github.com/Aiman-Creates/Python-Automation-Toolkit)
+
 cd Python-Automation-Toolkit
-Use code with caution.
+ ```
 
-**Install the required libraries:**
+**2. Install the required libraries:**
 (You must install these for the Face Unlock to work)
-**bash**
+```bash
 pip install opencv-python opencv-contrib-python numpy
-Use code with caution.
+```
 
-**📖 How to Use**
+3. **📖 How to Use**
 **Face Unlock**
 Navigate to the AI-Face-Unlock folder.
 Create a folder named **known_faces** inside it.
 Add **5-10 clear photos** of your face.
 Run the script:
-**bash**
+```bash
 python face_unlock.py
-Use code with caution.
+```
 
 **File Organizer**
 Navigate to the File-Organizer folder.
 Open the script and update the **directory** path to the folder you want to clean up.
 Run the script:
-**bash**
+```bash
 python organize_files.py
-Use code with caution.
+```
 
 **🤝 Support & Contribution**
 If you find these scripts useful, please give this repository a ⭐ Star! It helps others find this project.
