@@ -43,11 +43,11 @@ pip install opencv-python opencv-contrib-python numpy
 
 ### **3. 📖 How to Use**
 
-### **Face Unlock**
+### **🔐 Face Unlock**
 
-+ Navigate to the AI-Face-Unlock folder.
++ Navigate to the `AI-Face-Unlock` folder.
 
-+ Create a folder named **known_faces** inside it.
++ Create a folder named `known_faces` inside it.
 
 + Add **5-10 clear photos** of your face.
 
@@ -56,9 +56,9 @@ pip install opencv-python opencv-contrib-python numpy
 python face_unlock.py
 ```
 
-### **File Organizer**
+### **📂 File Organizer**
 
-+ Navigate to the File-Organizer folder.
++ Navigate to the `File-Organizer` folder.
 
 + Open the script and update the **directory** path to the folder you want to clean up.
 
