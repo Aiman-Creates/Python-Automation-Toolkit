@@ -1,9 +1,10 @@
-### **🐍 Python Automation Toolkit**
+# **🐍 Python Automation Toolkit**
 
 A collection of high-utility scripts designed to automate repetitive tasks and explore computer vision. This toolkit features an **AI-powered Face Unlock system** and a **Smart File Organizer**.
 
+___
 
-### **📂 Included Projects**
+## **📂 Included Projects**
 
 ### **1. 🔐 AI Face Unlock**
 **Location:** /AI-Face-Unlock
@@ -21,7 +22,9 @@ A script that automatically monitors and sorts cluttered folders (like your Desk
 
 **How it works:** It moves Images, Documents, Videos, and more into neatly categorized folders automatically.
 
-### 🚀 Quick Setup (Get it running!)
+___
+
+## 🚀 Quick Setup (Get it running!)
 
 ### **1. Clone the repository:**
 ```bash
@@ -64,7 +67,9 @@ Run the script:
 python organize_files.py
 ```
 
-### **🤝 Support & Contribution**
+___
+
+## **🤝 Support & Contribution**
 
 If you find these scripts useful, please give this repository a ⭐ Star! It helps others find this project.
 Developed with ❤️ by Aiman-Creates
