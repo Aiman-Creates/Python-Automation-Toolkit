@@ -12,10 +12,12 @@ A real-time facial recognition system built with **Python** and **OpenCV**. This
 
 ---
 
-## 🚀 How to Setup
-1.  **Install Requirements:**
-    ```bash
-    pip install opencv-contrib-python numpy
+## 🚀 Installation & Setup
+
+1. **Install Python Libraries:** 
+   Open your terminal and run:
+   ```bash
+   pip install opencv-contrib-python numpy
     ```
 2.  **Add Your Face:**
     * Create a folder named `known_faces` in the same directory as the script.
