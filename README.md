@@ -51,7 +51,7 @@ pip install opencv-python opencv-contrib-python numpy
 
 + Add **5-10 clear photos** of your face.
 
-+ Run the script:
++ **Run the script:**
 ```bash
 python face_unlock.py
 ```
@@ -62,7 +62,7 @@ python face_unlock.py
 
 + Open the script and update the **directory** path to the folder you want to clean up.
 
-+ Run the script:
++ **Run the script:**
 ```bash
 python organize_files.py
 ```
